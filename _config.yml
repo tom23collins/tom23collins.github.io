@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-GB"
 site_theme               : "default"
-title                    : "Tom's Homepage"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Thomas Collins"
 description              : &description "personal description"
